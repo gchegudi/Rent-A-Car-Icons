@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg9112"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   sodipodi:docname="Invoice.svg">
+  <defs
+     id="defs9106">
+    <rect
+       x="36.162511"
+       y="26.410823"
+       width="47.945801"
+       height="16.659134"
+       id="rect9704" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35186018"
+     inkscape:cx="267.84044"
+     inkscape:cy="459.24282"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1252"
+     inkscape:window-height="775"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata9109">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g9842">
+      <g
+         id="g9794">
+        <g
+           id="g9716">
+          <g
+             id="g9700">
+            <rect
+               style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+               id="rect9675"
+               width="89.202377"
+               height="121.70833"
+               x="61.988094"
+               y="77.863091"
+               ry="10.583332" />
+            <ellipse
+               style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+               id="path9687"
+               cx="106.15996"
+               cy="82.852386"
+               rx="7.9375"
+               ry="12.851191" />
+            <rect
+               style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.270213"
+               id="rect9689"
+               width="73.327385"
+               height="105.83333"
+               x="69.925591"
+               y="84.213066"
+               ry="10.583333" />
+            <path
+               style="fill:#000000;fill-rule:evenodd;stroke-width:0.291255"
+               id="path9691"
+               sodipodi:type="arc"
+               sodipodi:cx="-105.89283"
+               sodipodi:cy="-89.198509"
+               sodipodi:rx="11.044159"
+               sodipodi:ry="4.9771318"
+               sodipodi:start="0"
+               sodipodi:end="3.1723131"
+               sodipodi:arc-type="slice"
+               d="m -94.848671,-89.198509 a 11.044159,4.9771318 0 0 1 -5.620309,4.335579 11.044159,4.9771318 0 0 1 -11.14064,-0.07712 11.044159,4.9771318 0 0 1 -5.32216,-4.411331 l 11.03895,0.152876 z"
+               transform="matrix(-0.99999026,0.0044145,-0.00300636,-0.99999548,0,0)" />
+            <rect
+               style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.18051"
+               id="rect9693"
+               width="34.25597"
+               height="1.2370837"
+               x="88.888336"
+               y="84.2705"
+               ry="0.61854184" />
+          </g>
+          <text
+             xml:space="preserve"
+             id="text9702"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:3.52777999999999992px;line-height:2.4;font-family:Optima;-inkscape-font-specification:'Optima, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect9704);"
+             transform="matrix(3.3463854,0,0,3.907703,-41.107899,-19.317561)"><tspan
+               x="36.162109"
+               y="31.644853"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:3.52778px;font-family:Optima;-inkscape-font-specification:'Optima, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">INVOICE</tspan></tspan></text>
+        </g>
+        <g
+           id="g9765"
+           transform="translate(6.9644643,-0.99492347)">
+          <rect
+             style="fill:#000000;fill-rule:evenodd;stroke-width:0.260257"
+             id="rect9718"
+             width="59.364529"
+             height="3.6568832"
+             x="69.312622"
+             y="113.36785"
+             ry="1.3288963" />
+          <rect
+             style="fill:#000000;fill-rule:evenodd;stroke-width:0.260257"
+             id="rect9718-2"
+             width="59.364529"
+             height="3.6568832"
+             x="69.312622"
+             y="125.94686"
+             ry="1.3288963" />
+          <rect
+             style="fill:#000000;fill-rule:evenodd;stroke-width:0.260257"
+             id="rect9718-1"
+             width="59.364529"
+             height="3.6568832"
+             x="69.312622"
+             y="138.52586"
+             ry="1.3288963" />
+          <rect
+             style="fill:#000000;fill-rule:evenodd;stroke-width:0.260257"
+             id="rect9718-7"
+             width="59.364529"
+             height="3.6568832"
+             x="69.312622"
+             y="151.10486"
+             ry="1.3288963" />
+          <rect
+             style="fill:#000000;fill-rule:evenodd;stroke-width:0.260257"
+             id="rect9718-9"
+             width="59.364529"
+             height="3.6568832"
+             x="69.312622"
+             y="163.68387"
+             ry="1.3288963" />
+          <rect
+             style="fill:#000000;fill-rule:evenodd;stroke-width:0.260257"
+             id="rect9718-8"
+             width="59.364529"
+             height="3.6568832"
+             x="69.312622"
+             y="176.26286"
+             ry="1.3288963" />
+        </g>
+        <g
+           id="g9773">
+          <rect
+             style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583"
+             id="rect9767"
+             width="29.847704"
+             height="29.847704"
+             x="105.79391"
+             y="120.26223"
+             ry="1.3288963" />
+          <rect
+             style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583"
+             id="rect9769"
+             width="40.294399"
+             height="20.893393"
+             x="29.614601"
+             y="177.81467"
+             ry="1.3288963"
+             transform="rotate(-33.176826)" />
+        </g>
+      </g>
+      <g
+         id="g9817"
+         transform="translate(2.9005494,1.1373972)"
+         style="fill:#000000">
+        <rect
+           style="fill:#000000;fill-rule:evenodd;stroke-width:0.245245"
+           id="rect9796"
+           width="10.621047"
+           height="15.452533"
+           x="35.182934"
+           y="164.08163"
+           ry="0.023523668"
+           transform="rotate(-28.101008)" />
+        <rect
+           style="fill:#000000;fill-rule:evenodd;stroke-width:0.258986"
+           id="rect9813"
+           width="52.599396"
+           height="11.184585"
+           x="36.61684"
+           y="172.05893"
+           ry="0.057593651"
+           transform="matrix(0.90154883,-0.43267738,0.46373149,0.88597579,0,0)" />
+      </g>
+    </g>
+  </g>
+</svg>
